@@ -113,7 +113,7 @@ This ensures that all subsequent infrastructure is built on a secure and control
 
 ---
 
-## 💡 Notes
+##  Notes
 
 This implementation is structured to reflect how infrastructure is designed and managed in real environments, with clear separation of responsibilities across services and repositories.
 
